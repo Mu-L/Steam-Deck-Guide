@@ -80,7 +80,7 @@ Steam Deck device. Source: [Steam Deck](https://www.steamdeck.com/)
 
 **RAM:** 16 GB LPDDR5 on-board RAM (6400 MT/s quad 32-bit channels).
 
-**Operating system:** [SteamOS](https://en.wikipedia.org/wiki/SteamOS) 3.5 based on [ArchLinux](https://archlinux.org/).
+**Operating system:** [SteamOS](https://help.steampowered.com/en/faqs/view/1B71-EDF2-EB6D-2BB3) 3.5 based on [ArchLinux](https://archlinux.org/).
 
 **Storage:**
   * Steam Deck 512GB NVMe SSD ($549 USD).
@@ -105,7 +105,7 @@ Steam Deck device. Source: [Steam Deck](https://www.steamdeck.com/)
 
 ### Steam Deck LCD Specs
 
-**Operating system:** [SteamOS](https://en.wikipedia.org/wiki/SteamOS) 3.5 based on [ArchLinux](https://archlinux.org/).
+**Operating system:** [SteamOS](https://help.steampowered.com/en/faqs/view/1B71-EDF2-EB6D-2BB3) 3.5 based on [ArchLinux](https://archlinux.org/).
 
 **System on a chip (SoC):** AMD custom APU.
 
@@ -129,17 +129,12 @@ Steam Deck device. Source: [Steam Deck](https://www.steamdeck.com/)
 
 **Graphics:** RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
 
-[Steam Deck Certified Refurbished (Currently out of Stock)](https://store.steampowered.com/sale/steamdeckrefurbished)
+[Steam Deck Certified Refurbished](https://store.steampowered.com/sale/steamdeckrefurbished)
 
 [![So I got a Refurbished Steam Deck…](https://ytcards.demolab.com/?id=i8s_lkfvibA&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "So I got a Refurbished Steam Deck…")](https://www.youtube.com/watch?v=i8s_lkfvibA) 
 [![I Bought a Refurbished Steam Deck](https://ytcards.demolab.com/?id=VY0u5-uKONM&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "I Bought a Refurbished Steam Deck")](https://www.youtube.com/watch?v=VY0u5-uKONM) 
 [![Refurbished Steam Deck Unboxing Direct from Valve](https://ytcards.demolab.com/?id=QcW-p5ZbSuc&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Refurbished Steam Deck Unboxing Direct from Valve")](https://www.youtube.com/watch?v=QcW-p5ZbSuc)  
- 
-<p align="center">
- <img src="https://github.com/mikeroyal/Steam-Deck-Guide/assets/45159366/13b589c2-41eb-4c83-911c-f5ee722e3a1f">
-</br>
-Steam Deck Certified Refurbished Program. Image credit: Valve
-</p>
+
 
 [Deck Verified](https://www.steamdeck.com/en/verified) is a program that reviews games in Steam's catalog verifying their compatibility with the Steam Deck. So when you visit your Library on Steam Deck, you’ll find a compatibility badge on each title, reflecting the kind of experience you can expect when playing each game on Steam Deck.
 
